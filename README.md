@@ -30,3 +30,7 @@ En fonction du choix de l'utilisateur, différentes actions sont disponibles, te
 ## Conclusion
 
 La réalisation de ce projet nous a permis de travailler en groupe et de surmonter divers obstacles. Nous avons acquis un esprit d'équipe et une compréhension plus approfondie du travail d'ingénieur. Ce projet nous a également permis d'appliquer nos connaissances en bases de données et en programmation, notamment en langage C.
+
+## Documentation
+[PAPPORT DU MINI PROJET.pdf](https://github.com/ouassima-dihaj/Travel-Agency/files/14736082/PAPPORT.DU.MINI.PROJET.pdf)
+
