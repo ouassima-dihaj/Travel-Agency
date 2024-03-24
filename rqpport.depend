@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1672755196 source:c:\users\dell\desktop\language c\rqpport\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
